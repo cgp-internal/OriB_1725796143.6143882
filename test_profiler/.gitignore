@@ -1,0 +1,21 @@
+# Ignore Vue.js build output
+/dist
+
+# Ignore node_modules folder
+/node_modules
+
+# Ignore logs and log files
+*.log
+
+# Ignore git ignored files
+*.gitignore
+
+# Ignore macOS folder attributes
+._*
+
+# Ignore IDE files
+.idea
+.vscode
+
+# Ignore gitkeep files
+*.gitkeep
