@@ -1,0 +1,22 @@
+{
+    "test_profiler/README.md": {
+        "description": "README file containing project documentation",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler/index.html": {
+        "description": "A basic HTML file displaying 'Hello World'",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler/.gitignore": {
+        "description": "gitignore file for ignoring unwanted files",
+        "dependencies": {},
+        "exposes": []
+    },
+    "test_profiler/js/index.js": {
+        "description": "Logs a demo message to the console.",
+        "dependencies": {},
+        "exposes": []
+    }
+}
